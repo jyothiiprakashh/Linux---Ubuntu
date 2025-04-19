@@ -42,5 +42,6 @@ Now, we will use these commands to learn how they work.
 -------------------------------------------------------
 
 ** whoami **
-output: ![image](https://github.com/user-attachments/assets/efaeeaf1-fe4e-4581-afe4-265a966d90e4)
+output:
+![image](https://github.com/user-attachments/assets/efaeeaf1-fe4e-4581-afe4-265a966d90e4)
 
