@@ -1,41 +1,24 @@
-Before diving into the Linux operating system, take a moment to go through these basics.
-
-Linux is a free and open-source operating system that is widely used in various domains such as software development, airports, Android devices, and many more.
-
-
-Introduction to Linux
-What is Linux?
-Linux is a free and open-source operating system, just like Windows or macOS. It helps your computer's hardware and software work together. Many servers, desktops, and even smartphones (like Android) run on Linux.
-
-What is Ubuntu?
-Ubuntu is one of the most popular types (also called "distributions" or "distros") of Linux. It's user-friendly and great for beginners.
-
-Why use Linux?
-* It’s free to use
-* It’s customizable
-* It’s secure and stable
-* It’s used all over the world — especially in servers and data centers
+In Linux, every command typically consists of three parts
+Command – Options – Arguments
 
 
-What can you do with Linux?
-* Browse the internet
-* Write documents
-* Manage files and folders
-* Run programming tools and servers
-* Learn ethical hacking, networking, and system administration
+## Commands: Commands are the keywords that perform specific actions or execute programs.
+## Options : Options are used to modify the behavior of a command and to get customized output.
+## Arguments : Arguments are the targets on which the command operates. These can be files, directories, paths, users, etc.
 
 
-How is Linux different from Windows?
-* Feature	Linux	Windows
-* Cost	Free	Paid (usually)
-* Customization	Highly customizable	Limited customization
-* Security	Very secure	Needs frequent updates
-* Open Source	Yes	No
+You will understand these parts more clearly as we continue practicing.
 
 
-What are some common Linux distros?
-* Ubuntu – Great for beginners
-* Debian – Very stable
-* Fedora – Cutting-edge updates
-* CentOS / Rocky Linux – Used in servers
-* Kali Linux – For hacking and security testing
+
+The basic structure of the command is as follows,
+
+[Command] [Option] [Argument]  ---->   [ls] [-l] [/home/user1]  ----> 
+
+{ls -l /home/user1} -----> (Original command)
+
+* Here "ls" is command, "-l" is option, "/home/user1" is argument.
+Which means we are listing the files line by line inside the user1 directory located in the /home directory.
+ls - listing  ;  -l - line by line  ;  /home/user1 - inside home directory user1 directory is available.
+
+
