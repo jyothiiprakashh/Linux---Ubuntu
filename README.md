@@ -4,8 +4,8 @@ In this repository, you will find a basic tutorial on Linux using Ubuntu.
 The following are the topics that will be covered in this.
 
 * Basic commands
-* User management
 * File permission
+* User management
 * System information
 * Text processing
 * Process management
