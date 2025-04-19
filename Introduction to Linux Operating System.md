@@ -1,4 +1,4 @@
-Linux is a free and open-source operating system that is widely used in various domains such as software development, airports, Android devices, and many more.
+** Linux is a free and open-source operating system that is widely used in various domains such as software development, airports, Android devices, and many more.**
 
 
 Introduction to Linux
