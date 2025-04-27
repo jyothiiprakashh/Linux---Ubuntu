@@ -32,7 +32,23 @@ But, before you get into this you ahsould have a basic knowledge on definitions.
   Using directly by creating path.  
   ![image](https://github.com/user-attachments/assets/f9ee490f-256b-4d71-b58b-d3e30cb882fb)
 
-  Here, I provided a direct path to create a file, even though I am in a different directory. It allowed me to create the file directly using the touch command with a path as an argument.  
-  
+  Here, I provided a direct path to create a file, even though I am in a different directory. It allowed me to create the file directly using the touch command with a path as an argument.
 
+
+- **File deletion**: For file creation we use follow command `rm filename.txt`  
+  ![image](https://github.com/user-attachments/assets/c9960d12-00b2-4c7b-8297-6f382a0d753b)  
+
+  **Output:**  
+  ![image](https://github.com/user-attachments/assets/d1b938f1-8679-4af1-93c7-b3cfb3328ce6)  
+
+- **Copying a file into a directory:**  
+  To copy a file, we will use `cp filename.txt /destinantion` command to copy to the desired destination.  
+  But befor this we are goingb to create another directory called "test2.0" to where we are using this copy method to copy files from source "test" directory to "test2.0"  
+  ![image](https://github.com/user-attachments/assets/3f2caebe-1eb0-41b7-803f-008e9df67c4f)  
+  we copied the file `file2.txt` to directory "test2.0".
   
+  **Output:**  
+  ![image](https://github.com/user-attachments/assets/e7bd0fde-46dc-4130-afea-01f0696b1215)
+- **Moving a file into a directory:**
+  To move and rename a file we use `mv` command `mv file3.txt /test2.0`
+
