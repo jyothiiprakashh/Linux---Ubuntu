@@ -13,6 +13,8 @@ regarding user management in Linux Operating system.
 Lets dive into the user creation.
 
 In linux before creating an user makesure that user account  
-make sure that user account name without space execpt underscore(_), dot(.) and hyphens(-).
+make sure that user account name without space execpt underscore( _ ), dot(.) and hyphens(-).
 - The following is the syntax to create user
-`useradd username
+`useradd [Options] username`
+
+
