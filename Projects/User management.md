@@ -38,8 +38,16 @@ Now we create an empty file in the `user1` directory.
 
 - create `file.txt` using `touch` command  
 
-`touch file.txt`
+`touch file.txt`  
 
 ![image](https://github.com/user-attachments/assets/f55433e3-ce73-4fbe-91a6-49feeab93950)  
 
--rw-r--r-- 
+```
+-rw-r--r--
+
+Represents:
+- Read and write permissions for all users.
+- Read only permissions for all groups.
+- Read only permissions for others.
+
+```
