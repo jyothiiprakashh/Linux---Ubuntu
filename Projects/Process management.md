@@ -21,9 +21,8 @@ Now lets make a scenario of process management.
 
 
 - Now let us create an empty file using `touch` command having file name `TestFile`.  
-![Alt text](https://github.com/jyothiiprakashh/Linux-Ubuntu/blob/main/Projects/SmartSelect_20250513-151228_UserLAnd.jpg)  
+![Alt text](https://github.com/jyothiiprakashh/Linux-Ubuntu/blob/main/Projects/SmartSelect_20250513-151228_UserLAnd.jpg)    
 
-- After that, open vi editor and write some text in that.
 - And create a new file using `echo` command.
 ![Alt](https://github.com/jyothiiprakashh/Linux-Ubuntu/blob/main/Projects/SmartSelect_20250513-151249_UserLAnd.jpg)  
 
@@ -31,4 +30,5 @@ Now lets make a scenario of process management.
    echo "Hello World !" >> TestFile2.txt
 
  ```
+- After that, open vi editor and write some text in that.
 - 
